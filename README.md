@@ -6,7 +6,9 @@ In this project, I was tasked with creating a very simple website that includes 
 
 ## Skills demonstrated
 
-In building this very simple starter project I have been able to demonstrate the following skills:
+In building this very simple starter project, I have been able to demonstrate the following skills:
+* Ability to use the CLI of Ubuntu to create folders and files etc to use Git effectively with GitHub
+* Ability to push commits to GitHub using Git with meaningful and helpful subjects and descriptions whilst using the specification at https://www.conventionalcommits.org/en/v1.0.0/ to do so.
 * Knowledge and understanding of the basic HTML boilerplate code.
 * Ability to create links between pages in my website.
 * Ability to display images throughout the website, including providing alternative text for those who use screen readers.
