@@ -15,3 +15,5 @@ In building this very simple starter project, I have been able to demonstrate th
 * Ability to use both relative and absolute paths (to images etc).
 * Knowledge of the different heading types and when to use them.
 * Ability to use both unordered and ordered lists.
+* Ability to use basic CSS.
+* Knowledge of how the CSS cascade operates.
