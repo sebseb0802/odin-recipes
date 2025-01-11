@@ -17,3 +17,4 @@ In building this very simple starter project, I have been able to demonstrate th
 * Ability to use both unordered and ordered lists.
 * Ability to use basic CSS.
 * Knowledge of how the CSS cascade operates.
+* Knowledge of the CSS box model, including margin, border, padding, and content sizing.
